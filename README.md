@@ -29,7 +29,6 @@ a progressive Javascript framework.
 
 **We also have a forum for any type of concerns, feature requests, or discussions. Please visit: [Krayin CRM Forums](https://forums.krayincrm.com/)**
 
-# Visit our live [Demo](https://demo.krayincrm.com)
 
 It packs in lots of features that will allow your E-Commerce business to scale in no time:
 
@@ -93,12 +92,6 @@ php artisan route:clear
 php artisan serve
 ```
 
-
-**How to log in as admin:**
-
-> _http(s)://example.com/admin/login_
-
-```
 email:admin@example.com
 password:admin123
 ```
